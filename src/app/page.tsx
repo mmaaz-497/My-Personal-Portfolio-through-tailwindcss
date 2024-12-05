@@ -1,13 +1,13 @@
-import Image from "next/image";
+
 import Navebar from "./components/navebar";
 import Hero from "./components/hero";
-import About from "./components/about"
-import Skills from "./components/Skills";
+import About from "./components/about";
+import Skills from "./components/skills";
 import Contact from "./components/contact";
 export default function Home() {
   return (
     <div>
-    <Navebar />
+    <Navebar/>
     <Hero/>
     <About/>
     <Skills/>

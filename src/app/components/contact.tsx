@@ -8,7 +8,7 @@ const Contact = () => {
             <h1 className="text-blue-300 text-[50px]">Contact Us</h1>
           </div>
           <div className="ml-[150px] pt-16 text-2xl px-10">
-            <p>Id love to hear from you Whether you are interested in working together, asking questions or just saying hello feel free to reach out. I will get back to you as soon as possible</p>
+            <p>Id love to hear from you Whether you are interested in working together, asking questions or just saying hello feel free to reach out I will get back to you as soon as possible</p>
           </div>
           <div className="flex justify-evenly pt-4">
           <h1><strong>Email:</strong>  mmaazjatt497@gmail.com</h1>
